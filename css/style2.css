@@ -1,4 +1,7 @@
 
+
+
+
 #para{
     background-color: yellow;
    color: green;
@@ -13,13 +16,13 @@
     background-color: #ddd;
     color:yellow;
 }
-.first,.second,.third,.forth{
+.first,.second{
     border:3px solid #000;
     margin:2px;
     width:400px;
     text-align: center;
 }
-/*first img,.second img,.third img,.forth img{
+/*first img,.second img{
     width: 200px
 }*/
     
